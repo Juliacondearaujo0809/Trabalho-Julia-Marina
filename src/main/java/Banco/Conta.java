@@ -1,3 +1,5 @@
+// Equipe: Júlia Condé Araújo / Marina Condé Araújo
+
 package Banco;
 
 import java.util.List;
